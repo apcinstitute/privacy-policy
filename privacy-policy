@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Customer Info App</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
+        h1, h2 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad – Customer Info App</h1>
+    <p><strong>Empresa:</strong> Arkansas Permanent Cosmetic Institute and Brickhouse Body Art Institute</p>
+    <p><strong>Email de contacto:</strong> corporate@apciedu.com</p>
+    <p><strong>Última actualización:</strong> 2025</p>
+
+    <h2>1. Información que recopilamos</h2>
+    <p>
+        Customer Info App puede recopilar la siguiente información de los usuarios mediante integraciones de Facebook:
+        nombre, apellido, correo electrónico y número de teléfono. También podemos recibir información básica
+        autorizada a través de Facebook Login según los permisos otorgados por el usuario.
+    </p>
+
+    <h2>2. Uso de la información</h2>
+    <p>
+        Utilizamos la información recopilada para gestionar clientes, responder consultas, contactar usuarios
+        interesados, mejorar procesos internos y operar las funciones de Customer Info App.
+    </p>
+
+    <h2>3. Compartición de información</h2>
+    <p>
+        No vendemos ni compartimos información personal con terceros, excepto proveedores esenciales o cuando lo requiera la ley.
+    </p>
+
+    <h2>4. Seguridad de los datos</h2>
+    <p>
+        Implementamos medidas razonables para proteger los datos, aunque ningún método es completamente seguro.
+    </p>
+
+    <h2>5. Derechos de los usuarios</h2>
+    <p>
+        Los usuarios pueden solicitar acceso, eliminación o modificación de sus datos escribiendo a
+        <strong>corporate@apciedu.com</strong>.
+    </p>
+
+    <h2>6. Cambios en esta política</h2>
+    <p>
+        Esta Política puede actualizarse y se publicarán los cambios en esta misma página.
+    </p>
+
+    <h2>7. Contacto</h2>
+    <p>
+        Para consultas sobre esta Política, escriba a <strong>corporate@apciedu.com</strong>.
+    </p>
+</body>
+</html>
