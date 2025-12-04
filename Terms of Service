@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Customer Info App</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
+        h1, h2 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy – Customer Info App</h1>
+    <p><strong>Company:</strong> Arkansas Permanent Cosmetic Institute and Brickhouse Body Art Institute</p>
+    <p><strong>Contact Email:</strong> corporate@apciedu.com</p>
+    <p><strong>Last Updated:</strong> 2025</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>
+        Customer Info App may collect user information through Facebook integrations, including first and last name,
+        email address, and phone number. We may also receive basic authorized information through Facebook Login,
+        depending on the permissions granted by the user.
+    </p>
+
+    <h2>2. How We Use the Information</h2>
+    <p>
+        We use the information collected to manage customer requests, provide communication, contact leads, improve
+        internal processes, and operate the functions of Customer Info App.
+    </p>
+
+    <h2>3. Sharing of Information</h2>
+    <p>
+        We do not sell or share personal information with third parties except essential service providers or when
+        required by law.
+    </p>
+
+    <h2>4. Data Security</h2>
+    <p>
+        We implement reasonable safeguards to protect user data, though no method of data transmission or storage is
+        completely secure.
+    </p>
+
+    <h2>5. User Rights</h2>
+    <p>
+        Users may request access, deletion, or modification of their information by contacting
+        <strong>corporate@apciedu.com</strong>.
+    </p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>
+        We may update this Privacy Policy and will post changes on this page.
+    </p>
+
+    <h2>7. Contact</h2>
+    <p>
+        For questions regarding this Privacy Policy, please email us at <strong>corporate@apciedu.com</strong>.
+    </p>
+</body>
+</html>
